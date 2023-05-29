@@ -7,8 +7,10 @@ package ejercicioclasepoo;
 /**
  *
  * @author usuario
+ 
  */
 public class EjercicioClasePOO {
+    //Hemos Editado el documeto
 
     /**
      * @param args the command line arguments
